@@ -18,7 +18,7 @@ class Ticket {
    private int row;
    private int seat;
 
-   //complete the constructor
+   // the constructor
    public Ticket(String movie, int row, int seat) {
        this.movie = movie;
        this.row = row;
